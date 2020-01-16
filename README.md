@@ -1,3 +1,6 @@
 # hello-world
 First GitHub repository. 
-Hello, my name is Teagan and I am a senior at JMU in Harrisonburg, VA. I am originally from New Hampshire. 
+
+Hello,
+My name is Teagan and I am a senior at JMU in Harrisonburg, VA. 
+I am originally from New Hampshire. 
